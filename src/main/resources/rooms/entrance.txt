@@ -1,0 +1,12 @@
+{
+    "id": "entrance",
+    "name": "Castle Entrance",
+    "description": "You stand before an ancient castle entrance. The massive wooden doors creak ominously in the wind. Torch brackets flank the entrance, casting dancing shadows on the weathered stone walls.",
+    "exits": {
+        "north": "dungeon",
+        "east": "forest"
+    },
+    "items": ["torch"],
+    "npc": null,
+    "enemy": null
+}

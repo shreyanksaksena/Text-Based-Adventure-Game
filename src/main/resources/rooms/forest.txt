@@ -1,0 +1,12 @@
+{
+    "id": "forest",
+    "name": "Mysterious Forest",
+    "description": "A dense forest surrounds you. Ancient trees tower overhead, their branches intertwining to form a natural canopy. Strange sounds echo from deep within the woods.",
+    "exits": {
+        "west": "entrance",
+        "north": "treasure-room"
+    },
+    "items": ["healing_potion"],
+    "npc": "wise_elder",
+    "enemy": "wolf"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "treasure-room",
+    "name": "Treasure Room",
+    "description": "Glittering gold and precious gems fill this magnificent chamber. Ancient artifacts and valuable treasures are piled high, but a fearsome dragon guards the hoard.",
+    "exits": {
+        "west": "dungeon",
+        "south": "forest"
+    },
+    "items": ["golden_crown", "dragon_gem"],
+    "npc": null,
+    "enemy": "dragon"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "dungeon",
+    "name": "Dark Dungeon",
+    "description": "Cold, damp walls surround you in this dimly lit dungeon. The air is thick with the musty smell of age. Chains hang from the walls, and something skitters in the shadows.",
+    "exits": {
+        "south": "entrance",
+        "east": "treasure-room"
+    },
+    "items": ["rusty_key"],
+    "npc": null,
+    "enemy": "skeleton"
+}
